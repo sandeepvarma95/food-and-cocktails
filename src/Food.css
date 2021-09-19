@@ -1,0 +1,14 @@
+.food_image {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+}
+
+.img_container {
+  align-items: left;
+}
+
+.data_container {
+  align-items: right;
+}
