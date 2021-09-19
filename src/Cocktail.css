@@ -1,0 +1,36 @@
+.food_image {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.food_container {
+  border: 5px solid #333;
+  overflow: auto;
+}
+
+.img_container {
+  float: left;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 2%;
+}
+
+.img_container img {
+  display: block;
+}
+
+.data_container {
+  margin-left: 210px;
+  padding-left: 10%;
+}
+
+.pie_chart {
+  width: 150px;
+  height: 150px;
+  margin-left: 700px;
+  margin-top: -170px;
+  font-size: 8px;
+}
